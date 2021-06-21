@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/cc/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 0 e 8,16</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=8.16:0.1} </li>
+<li> Calcule a subtracao de 0 - 8,16 (a-b) {1:NUMERICAL:=-8.16:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 0 + 8.16 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 7 e 32,64</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=39.64:0.1} </li>
+<li> Calcule a subtracao de 7 - 32,64 (a-b) {1:NUMERICAL:=-25.64:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 7 + 32.64 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 3 e 48,96</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=51.96:0.1} </li>
+<li> Calcule a subtracao de 3 - 48,96 (a-b) {1:NUMERICAL:=-45.96:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 3 + 48.96 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 4 e 12,24</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=16.24:0.1} </li>
+<li> Calcule a subtracao de 4 - 12,24 (a-b) {1:NUMERICAL:=-8.24:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 4 + 12.24 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 10 e 91,12</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=101.12:0.1} </li>
+<li> Calcule a subtracao de 10 - 91,12 (a-b) {1:NUMERICAL:=-81.12:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 10 + 91.12 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 3 e 95,2</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=98.2:0.1} </li>
+<li> Calcule a subtracao de 3 - 95,2 (a-b) {1:NUMERICAL:=-92.2:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 3 + 95.2 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 4 e 32,64</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=36.64:0.1} </li>
+<li> Calcule a subtracao de 4 - 32,64 (a-b) {1:NUMERICAL:=-28.64:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 4 + 32.64 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 10 e 6,8</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=16.8:0.1} </li>
+<li> Calcule a subtracao de 10 - 6,8 (a-b) {1:NUMERICAL:=3.2:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 10 + 6.8 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 10 e 36,72</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=46.72:0.1} </li>
+<li> Calcule a subtracao de 10 - 36,72 (a-b) {1:NUMERICAL:=-26.72:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 10 + 36.72 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Calcule o valor das operacoes 5 e 32,64</p>
+<ol type = "a">
+<li> Calcule a soma <span class="math inline">\(a + b\)</span> {1:NUMERICAL:=37.64:0.1} </li>
+<li> Calcule a subtracao de 5 - 32,64 (a-b) {1:NUMERICAL:=-27.64:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 5 + 32.64 (a + b) </li>
+<li> (a-b) </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/cc/Exercise 2</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(3 + 30\)</span> {1:NUMERICAL:=33:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=-27:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(0 + 20\)</span> {1:NUMERICAL:=20:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=-20:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(2 + 0\)</span> {1:NUMERICAL:=2:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=2:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(0 + 0\)</span> {1:NUMERICAL:=0:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=0:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(4 + 40\)</span> {1:NUMERICAL:=44:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=-36:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(5 + 20\)</span> {1:NUMERICAL:=25:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=-15:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(0 + 0\)</span> {1:NUMERICAL:=0:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=0:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(1 + 20\)</span> {1:NUMERICAL:=21:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=-19:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(2 + 20\)</span> {1:NUMERICAL:=22:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=-18:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Add and subtract</p>
+<ol type = "a">
+<li> add a+b - <span class="math inline">\(2 + 30\)</span> {1:NUMERICAL:=32:0.1} </li>
+<li> subtract a - b {1:NUMERICAL:=-28:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> a + b </li>
+<li> a-b </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+</quiz>

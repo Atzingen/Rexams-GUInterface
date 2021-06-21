@@ -1,0 +1,14 @@
+
+\end{answerlist}
+
+\end{question}
+
+<<echo=FALSE, results=hide>>=
+options(OutDec=".")
+@
+
+\begin{solution}
+%% Solution
+
+\begin{answerlist}
+

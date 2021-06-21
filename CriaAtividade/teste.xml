@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/teste/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/teste/Exercise 2</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 2,50 kg oscila em uma mola de constante igual a 245 N/m com um período de 0,82 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=31.34:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 31,34. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 2,40 kg oscila em uma mola de constante igual a 240 N/m com um período de 0,75 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=26.21:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 26,21. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 2,00 kg oscila em uma mola de constante igual a 245 N/m com um período de 0,64 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=20.44:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 20,44. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 2,20 kg oscila em uma mola de constante igual a 225 N/m com um período de 0,85 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=30.37:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 30,37. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 1,70 kg oscila em uma mola de constante igual a 205 N/m com um período de 0,77 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=24.98:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 24,98. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 1,70 kg oscila em uma mola de constante igual a 245 N/m com um período de 0,70 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=27.1:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 27,1. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 2,30 kg oscila em uma mola de constante igual a 215 N/m com um período de 0,81 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=26.54:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 26,54. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 2,30 kg oscila em uma mola de constante igual a 245 N/m com um período de 0,81 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=31.32:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 31,32. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 2,20 kg oscila em uma mola de constante igual a 200 N/m com um período de 0,92 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=29.28:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 29,28. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Uma massa de 1,70 kg oscila em uma mola de constante igual a 215 N/m com um período de 0,64 s.<br />
+a) Determine a constante de amortecimento <span class="math inline">\(b\)</span>, em kg/s. <em>Dê sua resposta com, pelo menos, uma casa decimal.</em>  {1:NUMERICAL:=18.65:0.1}<br />
+b) Classifique o movimento do sistema:<br />
+{1:MULTICHOICE:%0%Movimento não amortecido~%100%Movimento subamortecido~%0%Movimento criticamente amortecido~%0%Movimento superamortecido}<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> 18,65. </li>
+<li> 0. / 1. / 0. / 0. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/teste/Exercise 3</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 169 gramas de vapor de água à 126 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -11°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-124806.5 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-124806.5</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 534 gramas de vapor de água à 107 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -11°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-389286 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-389286</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 432 gramas de vapor de água à 122 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -13°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-318600 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-318600</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 416 gramas de vapor de água à 129 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -2°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-305968 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-305968</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 243 gramas de vapor de água à 118 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -3°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-177511.5 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-177511.5</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 713 gramas de vapor de água à 130 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -10°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-527620 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-527620</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 443 gramas de vapor de água à 137 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -10°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-329370.5 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-329370.5</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 186 gramas de vapor de água à 138 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -11°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-138477 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-138477</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 227 gramas de vapor de água à 104 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -6°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-164575 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-164575</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q3 : Q2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Tem-se 195 gramas de vapor de água à 111 °C, a pressão atmosférica normal constante, que deve ser transformado em gelo a -12°C. Determine a quantidade de calor, em calorias, necessária para realizar todo esse processo.<br />
+<strong>Dados:</strong> calor específico do vapor de água: <span class="math inline">\(c_{v} = 0,5 cal/g ^\circ C\)</span> ; calor latente de vaporização da água: <span class="math inline">\(L_{v} = 540 \ cal/g\)</span>; calor específico da água: <span class="math inline">\(c_{a} = 1,0 \ cal/g ^\circ C\)</span>; calor latente de fusão da água: <span class="math inline">\(L_{f} = 80 \ cal/g\)</span> ; calor específico do gelo: <span class="math inline">\(c_{g} = 0,5 \ cal/g ^\circ C\)</span><br />
+<strong>OBS:</strong> Não esqueça que o calor latente de condensaçao da água equivale ao negativo do calor latente de vaporização da água. A mesma ideia é válida para o calor latente de solidificação com o calor latente de fusão.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>-142642.5 cal</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-142642.5</text>
+<tolerance>5</tolerance>
+</answer>
+</question>
+
+</quiz>
