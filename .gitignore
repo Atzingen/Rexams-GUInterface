@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# exclude everything
+BancoQuestoes/*
+
+# exception to the rule
+!BancoQuestoes/.gitkeep 
+
+
 # C extensions
 *.so
 
