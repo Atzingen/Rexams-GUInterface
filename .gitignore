@@ -8,6 +8,11 @@ __pycache__/
 BancoQuestoes/*
 build/*
 dist/*
+.vscode
+.vscode/*
+.qt_for_python
+.qt_for_python/*
+main.spec
 
 # exception to the rule
 !BancoQuestoes/.gitkeep 
