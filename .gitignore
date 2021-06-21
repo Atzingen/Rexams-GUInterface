@@ -6,6 +6,8 @@ __pycache__/
 
 # exclude everything
 BancoQuestoes/*
+build/*
+dist/*
 
 # exception to the rule
 !BancoQuestoes/.gitkeep 
