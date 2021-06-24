@@ -8,6 +8,7 @@ __pycache__/
 BancoQuestoes/*
 build/*
 dist/*
+output/*
 .vscode
 .vscode/*
 .qt_for_python
