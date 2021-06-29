@@ -1,11 +1,22 @@
+import sys, os, shutil, atexit
+from PyQt5.Qt import Qt
 from PyQt5 import QtWidgets, uic, QtGui, QtCore
 from PyQt5.QtWidgets import QMessageBox, QDialog, QApplication, QMainWindow, \
                             QPushButton, QLabel, QVBoxLayout, QWidget, QCompleter
-from PyQt5.Qt import Qt
-import sys, os
+from preview_window import AnotherWindow
 from functools import partial
 import create_script
-from preview_window import AnotherWindow
+
+def theardown():
+    '''
+    Delete image move to rooth folder for Rscript GAMBIARRA when program ends.
+    TODO: Remove after image organization
+    '''
+    files = os.listdir()
+    for file_name in files:
+        if '.jpg' in file_name:
+            os.remove(file_name)
+
 
 class Ui(QtWidgets.QMainWindow):
     def __init__(self):
@@ -49,6 +60,7 @@ class Ui(QtWidgets.QMainWindow):
         if n > 0 and nome_atividade and len(files) > 0:
             try:
                 create_script.create_xml(list_Rnw=files, n=n, subject=nome_atividade)
+                os.startfile('CriaAtividade')
             except Exception as e:
                 print(f'DEBUG: make_moodle - {e}')
         else:
@@ -57,6 +69,9 @@ class Ui(QtWidgets.QMainWindow):
     def preview_question_activity(self):
         Rnw_file = self.lineEdit_busca.text()
         try:
+            images, path_folder = create_script.list_all_images(Rnw_file)
+            for image in images:
+                shutil.copyfile(f'{path_folder}/{image}', image)
             create_script.create_html(Rnw_file)
             with open('html/plain1.html', 'r', encoding='utf-8') as f:
                 html = f.read()
@@ -192,6 +207,8 @@ class Ui(QtWidgets.QMainWindow):
                 self.pop_message("Existem campos em branco", "Adicione informações em todos os campos para adicionar")
 
 
+atexit.register(theardown)
 app = QtWidgets.QApplication(sys.argv)
 window = Ui()
 app.exec_()
+

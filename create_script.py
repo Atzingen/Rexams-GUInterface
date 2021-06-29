@@ -1,4 +1,4 @@
-import subprocess, random, time, sys, os, shutil
+import subprocess, random, time, sys, os, shutil, pathlib
 
 def create_R_sample(var_name, min, max, step):
     return f'{var_name} <- sample(seq(from={min},to={max},by={step}),1)'
@@ -28,7 +28,6 @@ def del_file(path, file_name):
 
 def move_Rnw(path, file_name):
     shutil.move('./CriaRnw/Rnw_question.Rnw', f'{path}/{file_name}')
-    #del_file(path, file_name)
 
 def parse_solucoes_dom(solucoes_dom):
     var, texto, solucao = [], [], []
@@ -99,9 +98,9 @@ def create_xml(list_Rnw, n, subject):
             os.remove(f'CriaAtividade/{file}')
 
 def create_html(filename_Rnw):
+    print(filename_Rnw)
     t = int(time.time())
     output = subprocess.check_output(f'Rscript.exe CriaRnw/make_html.R {filename_Rnw} {t}')
-    print(output)
     return output
        
 def test_R_singleline(inline_data):
@@ -118,9 +117,26 @@ def test_R_singleline(inline_data):
     return x
 
 def list_all_Rnw():
+    '''
+    List all Rnw files in the folder BancoQuestoes.
+    Used for sorting and search files by name.
+    TODO: Tags for information inside question.
+    '''
     all_Rnw = []
     for dirpath, dirs, files in os.walk("./BancoQuestoes"):
         for filename in files:
             if '.Rnw' in filename:
                 all_Rnw.append(f'{dirpath}/{filename}')
     return all_Rnw
+
+def list_all_images(Rnw_file):
+    '''
+    list all images related to the Rnw file and return it along with
+    the full path to the folder.
+    '''
+    full_Rnw_path = pathlib.Path(Rnw_file)
+    Rnw_name = full_Rnw_path.stem
+    path_folder = full_Rnw_path.parent
+    files = os.listdir(path_folder)
+    images = [x for x in files if '.jpg' in x and Rnw_name in x]
+    return images, path_folder

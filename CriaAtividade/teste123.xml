@@ -1,0 +1,1838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/teste123/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/teste123/Exercise 2</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q2 : Q1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>O gráfico a seguir mostra a energia cinética e a energia potencial de um sistema de duas partículas em função da distância <span class="math inline">\(r\)</span> entre elas. A partir desse gráfico, pode-se concluir que a interação entre as duas partículas é de:</p>
+<p><img src="Q15ECI.jpg" style="height:6cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Repulsão
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Não há informação suficiente para determinar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração quando <span class="math inline">\(r&lt;r_1\)</span> e de repulsão quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repulsão quando <span class="math inline">\(r&lt;r_1\)</span> e de atração quando <span class="math inline">\(r&gt;r_1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Atração
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>
