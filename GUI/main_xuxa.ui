@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1461</width>
+    <height>1018</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <widget class="QTabWidget" name="tabWidget">
+        <property name="maximumSize">
+         <size>
+          <width>1441</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <property name="currentIndex">
+         <number>1</number>
+        </property>
+        <widget class="QWidget" name="tab">
+         <attribute name="title">
+          <string>Tab 1</string>
+         </attribute>
+        </widget>
+        <widget class="QWidget" name="tab_2">
+         <attribute name="title">
+          <string>Tab 2</string>
+         </attribute>
+         <widget class="QWidget" name="horizontalLayoutWidget_2">
+          <property name="geometry">
+           <rect>
+            <x>90</x>
+            <y>60</y>
+            <width>876</width>
+            <height>436</height>
+           </rect>
+          </property>
+          <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="">
+           <property name="sizeConstraint">
+            <enum>QLayout::SetMaximumSize</enum>
+           </property>
+          </layout>
+         </widget>
+        </widget>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1461</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuSobre">
+    <property name="title">
+     <string>Sobre</string>
+    </property>
+    <addaction name="actionRexams"/>
+    <addaction name="actionLatex"/>
+    <addaction name="actionMath_Equations"/>
+    <addaction name="actionR_functions"/>
+    <addaction name="actionEste_Software"/>
+   </widget>
+   <widget class="QMenu" name="menuConfiguracoes">
+    <property name="title">
+     <string>Configuracoes</string>
+    </property>
+    <widget class="QMenu" name="menuPasta_de_Quest_es">
+     <property name="title">
+      <string>Pasta de Questões</string>
+     </property>
+     <addaction name="actionRaiz"/>
+    </widget>
+    <addaction name="actionSemente"/>
+    <addaction name="menuPasta_de_Quest_es"/>
+    <addaction name="actionLingua"/>
+   </widget>
+   <addaction name="menuConfiguracoes"/>
+   <addaction name="menuSobre"/>
+  </widget>
+  <action name="actionSemente">
+   <property name="text">
+    <string>Semente</string>
+   </property>
+  </action>
+  <action name="actionRexams">
+   <property name="text">
+    <string>Rexams</string>
+   </property>
+  </action>
+  <action name="actionLatex">
+   <property name="text">
+    <string>Latex</string>
+   </property>
+  </action>
+  <action name="actionMath_Equations">
+   <property name="text">
+    <string>Math Equations</string>
+   </property>
+  </action>
+  <action name="actionR_functions">
+   <property name="text">
+    <string>R functions</string>
+   </property>
+  </action>
+  <action name="actionEste_Software">
+   <property name="text">
+    <string>Este Software</string>
+   </property>
+  </action>
+  <action name="actionRaiz">
+   <property name="text">
+    <string>Raiz</string>
+   </property>
+  </action>
+  <action name="actionLingua">
+   <property name="text">
+    <string>Lingua</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

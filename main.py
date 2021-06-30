@@ -6,6 +6,7 @@ from PyQt5.QtWidgets import QMessageBox, QDialog, QApplication, QMainWindow, \
 from preview_window import AnotherWindow
 from functools import partial
 import create_script
+# from PyQt5.Qsci import QsciScintilla # sintaxe highlight TODO.
 
 def theardown():
     '''

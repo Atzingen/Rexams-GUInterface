@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/a/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R1 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R2 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R3 Q1 : Q0 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Quando dois prótons encontram-se separados por uma distância <span class="math inline">\(d\)</span>, a energia potencial elétrica do sistema de dois prótons é <span class="math inline">\(U\)</span>.</p>
+<p><img src="Q06ECI1.jpg" style="height:1cm" alt="image" /></p>
+<p>Agora dois prótons são adicionados ao sistema, conforme a figura abaixo. Os quatro prótons formam um tetraedro com distândia <span class="math inline">\(d\)</span> entre cada um deles. A energia potencial elétrica do sistema de quatro prótons é:</p>
+<p><img src="Q06ECI2.jpg" style="height:4cm" alt="image" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Verdadeiro</strong> </li>
+<li> <strong>Falso</strong> </li>
+<li> <strong>Falso</strong> </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(2U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(3U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(4U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(6U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Verdadeiro</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(8U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(12U\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<strong>Falso</strong>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>
