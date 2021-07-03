@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>835</width>
-    <height>705</height>
+    <width>874</width>
+    <height>724</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,10 +16,10 @@
   <widget class="QWebEngineView" name="webEngineView">
    <property name="geometry">
     <rect>
-     <x>0</x>
+     <x>15</x>
      <y>9</y>
-     <width>831</width>
-     <height>691</height>
+     <width>841</width>
+     <height>701</height>
     </rect>
    </property>
    <property name="url">
@@ -31,8 +31,8 @@
   <widget class="QPushButton" name="pushButton_salvar">
    <property name="geometry">
     <rect>
-     <x>630</x>
-     <y>10</y>
+     <x>650</x>
+     <y>15</y>
      <width>91</width>
      <height>41</height>
     </rect>
@@ -54,8 +54,8 @@
   <widget class="QPushButton" name="pushButton_apagar">
    <property name="geometry">
     <rect>
-     <x>730</x>
-     <y>10</y>
+     <x>750</x>
+     <y>15</y>
      <width>91</width>
      <height>41</height>
     </rect>
@@ -77,8 +77,8 @@
   <widget class="QPushButton" name="pushButton_refresh">
    <property name="geometry">
     <rect>
-     <x>530</x>
-     <y>10</y>
+     <x>550</x>
+     <y>15</y>
      <width>91</width>
      <height>41</height>
     </rect>
@@ -103,8 +103,8 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>530</x>
-     <y>60</y>
+     <x>550</x>
+     <y>65</y>
      <width>291</width>
      <height>21</height>
     </rect>
@@ -125,8 +125,8 @@
   <widget class="QLineEdit" name="lineEdit_fileArea">
    <property name="geometry">
     <rect>
-     <x>530</x>
-     <y>100</y>
+     <x>550</x>
+     <y>105</y>
      <width>291</width>
      <height>21</height>
     </rect>
@@ -138,8 +138,8 @@
   <widget class="QLineEdit" name="lineEdit_fileSubArea">
    <property name="geometry">
     <rect>
-     <x>530</x>
-     <y>140</y>
+     <x>550</x>
+     <y>145</y>
      <width>291</width>
      <height>21</height>
     </rect>

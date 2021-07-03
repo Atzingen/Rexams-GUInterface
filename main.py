@@ -17,7 +17,7 @@ def theardown():
     for file_name in files:
         if '.jpg' in file_name:
             os.remove(file_name)
-
+            
 
 class Ui(QtWidgets.QMainWindow):
     def __init__(self):
