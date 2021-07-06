@@ -1,4 +1,13 @@
-import os, shutil, sys, time, subprocess
+import os, shutil, sys, time, subprocess, json
+from decouple import config
+
+from bs4 import BeautifulSoup
+# from imageai.Classification import ImageClassification
+
+import openai
+
+execution_path = os.getcwd()
+openai.api_key = config('OPENAI_API_KEY')
 
 def scrub_folders():
     for root, dirs, files in os.walk("BancoQuestoes/"):
@@ -31,6 +40,67 @@ def delete_files_Geral():
         if '.jpg' in f or '.Rnw' in f or '.html' in f:
             os.remove(f'BancoQuestoes/All/{f}')
 
+# def image_label():
+#     files = os.listdir('BancoQuestoes/All/')
+#     prediction = ImageClassification()
+#     prediction.setModelTypeAsInceptionV3()
+#     prediction.setModelPath(os.path.join(execution_path, "inception_v3_weights_tf_dim_ordering_tf_kernels.h5"))
+#     prediction.loadModel()
+#     for f in files:
+#         if '.jpg' in f:
+#             predictions, probabilities = prediction.classifyImage(os.path.join(execution_path, f'BancoQuestoes/All/{f}'), result_count=5 )
+#             for eachPrediction, eachProbability in zip(predictions, probabilities):
+#                 if eachProbability > 0.4:
+#                     print(f'Image: {f} \b {eachPrediction}')
+#                 else:
+#                     break
+#             print('\n')    
+
+def text_from_html():
+    text_dict = {}
+    files = os.listdir('BancoQuestoes/All/')
+    for f in files:
+        if '.html' in f:
+            with open(f'BancoQuestoes/All/{f}', encoding="utf-8") as html_file:
+                soup = BeautifulSoup(html_file, 'html.parser')
+                text_dict[f] = soup.find('h4').next_sibling.strip('\n')
+                # print(soup.find('h4').next_sibling.strip('\n'))
+    with open('text_dict.json', 'w', encoding="utf-8") as fp:
+        json.dump(text_dict, fp)
+    return text_dict
+
+
+def gpt3_getKeys(text):
+    response = openai.Completion.create(
+        engine="davinci",
+        prompt=f'Text: {text} \nKeywords:',
+        temperature=0.3,
+        max_tokens=60,
+        top_p=1.0,
+        frequency_penalty=0.8,
+        presence_penalty=0.0,
+        stop=["\n"]
+    )
+    print(text)
+    print(response["choices"][0]["text"])
+    print(30*'-')
+    print('\n\n')
+    return response
+
+def gpt3_convert_list(text_dict, n):
+    i = 0
+    gpt_keywords = {}
+    for file_name in text_dict.keys():
+        text = text_dict[file_name]
+        if len(text) > n:
+            keywords = gpt3_getKeys(text)
+            gpt_keywords[file_name] = keywords["choices"][0]["text"]
+            i += 1
+        if i > 50:
+            break   
+    with open('gpt3_dict.json', 'w', encoding="utf-8") as fp:
+        json.dump(gpt_keywords, fp)   
+
 def create_html():
     files = os.listdir('BancoQuestoes/All/')
     for f in files:
@@ -41,6 +111,9 @@ def create_html():
             # print(f, ret)
 
 if __name__ == '__main__':
-    delete_files_Geral()
-    scrub_folders()
-    create_html()
+    # delete_files_Geral()
+    # scrub_folders()
+    # create_html()
+    # image_label()
+    print(text_from_html())
+    pass
